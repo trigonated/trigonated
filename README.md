@@ -2,7 +2,7 @@
 I’m Tiago Bento aka @trigonated! I'm an Android application developer from Lisbon, but I also work with other tech from time to time.
 
 ## Interesting projects I made:
- - [🎮 Game Collection](https://github.com/trigonated/GameCollection) - A showcase of a very modern Android stack in the form of a demo application.
+ - [🎮 Game Collection](https://github.com/trigonated/GameCollection) - A showcase of a very modern Android [stack](https://github.com/trigonated/GameCollection#stack) in the form of a demo application.
  - [⚡ Volt Launcher](https://github.com/trigonated/voltlauncher) - A launcher/content manager for RVGL (fan implmentation of the Re-Volt videogame) made in Flutter.
  - [📚 Al Bhed Translator](https://github.com/trigonated/AlBhedTranslator) - An android app that translates to/from the Al Bhed language.
  
