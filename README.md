@@ -6,7 +6,7 @@ I’m Tiago Bento aka @trigonated! I'm an Android application developer from Lis
  - [⚡ Volt Launcher](https://github.com/trigonated/voltlauncher) - A launcher/content manager for RVGL (fan implmentation of the Re-Volt videogame) made in Flutter.
  - [📚 Al Bhed Translator](https://github.com/trigonated/AlBhedTranslator) - An android app that translates to/from the Al Bhed language.
  
-## Interesting projects I contribute to:
+## Cool projects I contribute to:
  - [🐇 Jazz 2 Ressurection](https://github.com/deathkiller/jazz2): a fan implementation of the 1998 hit game Jazz Jackrabbit 2, now ported to modern computers and Android.
 
 ## What I'm working on:
