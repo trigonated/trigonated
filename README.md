@@ -12,3 +12,4 @@ I’m Tiago Bento aka @trigonated! I'm an Android application developer from Lis
 ## What I'm working on:
  - 🔥 Crackle - A Discord bot that plays ambient soundscapes, aiming on helping Tabletop RPG hosts bring more immersion to their games.
  - 🛸 Traveller for Reddit - An alternative Reddit client for Android made with [Jetpack compose](https://developer.android.com/jetpack/compose).
+ - 🟠 Rotata - A puzzle game where you rotate your way to domination!
